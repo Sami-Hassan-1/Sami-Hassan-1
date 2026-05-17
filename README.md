@@ -1,4 +1,7 @@
-## Hi there 👋
+Hello!
+I am Sami Hassan, student at University of Waterloo for CS, specializing in AI
+I am excited to keep learning and developing my skills, and hopefully build some cool projects!
+
 
 <!--
 **Sami-Hassan-1/Sami-Hassan-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
