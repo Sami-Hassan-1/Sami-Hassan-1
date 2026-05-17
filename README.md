@@ -1,8 +1,8 @@
 Hello!
 
-I am Sami Hassan, student at University of Waterloo for CS, specializing in AI
+I am Sami Hassan, student at University of Waterloo for CS, specializing in Artificial Intelligence.
 
-I am excited to keep learning and developing my skills, and hopefully build some cool projects!
+I am excited to build cool projects and also keep learning and developing my skills!
 
 
 <!--
